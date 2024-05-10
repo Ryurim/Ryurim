@@ -1,5 +1,5 @@
-<h1 align="center"> 류 림</h1>
-<h3 align="center"> 안녕하세요! 👋</h3>
+<h1 > 류 림</h1>
+<h3 > 안녕하세요! 👋</h3>
 
 <!--
 **miro7923/miro7923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center"> 💻 Tech Stack 💻</h3>
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Rim-s-PortFolio-2d4a7a9f913746c78873ba731c09a2ce)](https://www.notion.so/Rim-s-PortFolio-2d4a7a9f913746c78873ba731c09a2ce)
 
-<p align="center">
+<h3 > 💻 Tech Stack 💻</h3>
+
+<p >
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
@@ -41,9 +43,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center"> 📫 How to reach me: ...</h3>
-<p align="center">
+<h3 > 📫 How to reach me 📫</h3>
+<p >
   <a href="mailto:lapinrim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
+    
 
 <!--[![Rim's github stats](https://github-readme-stats.vercel.app/api?username=Ryurim)](https://github.com/Ryurim)-->
