@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Rim-s-PortFolio-2d4a7a9f913746c78873ba731c09a2ce)](https://www.notion.so/Rim-s-PortFolio-2d4a7a9f913746c78873ba731c09a2ce)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://weak-lasagna-cf1.notion.site/Rim-s-Portfolio-2d4a7a9f913746c78873ba731c09a2ce?pvs=4)](https://weak-lasagna-cf1.notion.site/Rim-s-Portfolio-2d4a7a9f913746c78873ba731c09a2ce?pvs=4)
 
 * 🌱 주어진 업무에 최선을 다하는 개발자 입니다.
 * 👯 팀원간의 화합에 중점을 둡니다.
