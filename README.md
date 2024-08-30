@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://weak-lasagna-cf1.notion.site/Rim-s-Portfolio-2d4a7a9f913746c78873ba731c09a2ce?pvs=4)](https://weak-lasagna-cf1.notion.site/Rim-s-Portfolio-2d4a7a9f913746c78873ba731c09a2ce?pvs=4)
+<!--[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://weak-lasagna-cf1.notion.site/Rim-s-Portfolio-2d4a7a9f913746c78873ba731c09a2ce?pvs=4)](https://weak-lasagna-cf1.notion.site/Rim-s-Portfolio-2d4a7a9f913746c78873ba731c09a2ce?pvs=4)-->
 
 * 🌱 
 * 👯 
