@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
   
 <h3 > 💻 Tech Stack 💻</h3>
+<hr></hr>
 
 <p >
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
@@ -52,6 +53,8 @@ Here are some ideas to get you started:
 <p >
   <a href="mailto:lapinrim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
+
+
     
 
 <!--[![Rim's github stats](https://github-readme-stats.vercel.app/api?username=Ryurim)](https://github.com/Ryurim)-->
