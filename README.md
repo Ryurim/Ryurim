@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <h3>경력</h3>
 <ul>
-  <li>천재교육 디지털러닝팀 팀원 (2024.07 ~ )</li>
+  <li>천재교육 디지털러닝팀 팀원 (2024.07 ~ now)</li>
 </ul>
 
 <h3 > 📫 How to reach me 📫</h3>
