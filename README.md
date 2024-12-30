@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 * 😎 
 
   
-<h3 > 기술스택 </h3>
+<h2 > 기술스택 </h2>
 
 <p >
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
