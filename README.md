@@ -49,6 +49,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
 </p>
 
+<h3>학력</h3>
+<ul>
+  <li>국민대학교 전자시스템학과 (2021.03 ~ 2024.02)</li>
+</ul>
+
 <h3 > 📫 How to reach me 📫</h3>
 <p >
   <a href="mailto:lapinrim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
