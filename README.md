@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 <!--* 👯 
 * 😎 -->
 * 🔭 리액트, 리액트 네이티브 공부중 + ASP 만지는중
+<p>
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQyOTYyNjA2)](https://www.git-ranker.com)
-
+</p>
   
 <h2 > 기술스택 </h2>
 
