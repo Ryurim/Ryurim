@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 * 🌱 데브옵스가 되고싶은 백엔드 개발자 입니다 (이제 프론트를 곁들인...)
 <!--* 👯 
 * 😎 -->
-* 🔭 리액트, 리액트 네이티브 공부중
+* 🔭 리액트, 리액트 네이티브 공부중 + ASP 만지는중
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQyOTYyNjA2)](https://www.git-ranker.com)
 
   
 <h2 > 기술스택 </h2>
@@ -61,8 +62,6 @@ Here are some ideas to get you started:
 <p >
   <a href="mailto:lapinrim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
-
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQyOTYyNjA2)](https://www.git-ranker.com)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryurim)](https://github.com/anuraghazra/github-readme-stats)
